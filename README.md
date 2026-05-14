@@ -6,12 +6,19 @@
 
 
 
+\## Cần tạo 1 môi trường ảo cùng cấp với code, dataset,... trước rồi mới chạy code từ đó
 
+
+```bash
+
+python -m venv env
+env\bin\Activate.ps1 hoặc env/Scripts/Activate.ps1 tùy theo file Activate.ps1 của bạn ở đâu
+
+```
 
 
 
 \## Code
-
 
 
 \*\*Step 1: Preprocess\*\*
