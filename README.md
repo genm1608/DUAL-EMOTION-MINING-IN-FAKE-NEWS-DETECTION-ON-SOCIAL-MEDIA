@@ -12,7 +12,7 @@
 ```bash
 
 python -m venv env
-env\bin\Activate.ps1 hoặc env/Scripts/Activate.ps1 tùy theo file Activate.ps1 của bạn ở đâu
+env\bin\Activate.ps1 hoặc env\Scripts\Activate.ps1 tùy theo file Activate.ps1 của bạn ở đâu
 
 ```
 
